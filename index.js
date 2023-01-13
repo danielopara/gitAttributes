@@ -1,6 +1,6 @@
 // Sample JS file
-const API_KEY = "whyme";
+const API_KEY = "{SECURE_API_KEY}";
 const makeAPICall = function(key){
 	console.log("making API call...");
 }
-makeAPICall(API_KEY);
+makeAPICall(API_key);
