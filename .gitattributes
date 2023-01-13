@@ -1,3 +1,4 @@
 # attributes
 .*	export-ignore
 test	export-ignore
+*.js	filter=updateAPIKey
